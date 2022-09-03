@@ -1,5 +1,8 @@
 ### Olá, sou Arthur Barros, desenvolvedor web front-end 👋
 
+<p>Possuo um background na área de programação há mais de 3 anos, atualmente estou em busca da minha primeira oportunidade na área!</p>
+<p>Sinta-se bem com meu espaço de desenvolvimento, aqui você verá um pouco mais sobre as stacks que conheço, meus repositórios de projetos e commits.</p>
+
 <div align="center">
   <a href="https://github.com/Artmoraes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Artmoraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

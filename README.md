@@ -6,12 +6,6 @@
 <p>Um pouco sobre mim:</p>
 <p>Conheço o universo da tecnologia desde criança, meu primeiro contato foi pelo meu irmão mais velho quando eu ainda tinha por volta dos 5 anos, com 7 anos conheci o arduino, fui crescendo e acompanhando as tecnologias que iam surgindo, ganhei um arduino para me divertir, cheguei a usar até para fazer alguns cosplays, aos 18 anos ingressei na faculdade de Ciências da Computação, foi ai que realmente descobri que a tecnologias era para mim e me apaixonei pela área, desde 2018 continuei estudando sobre a área, de lá para cá já tive contato com C#, Python, JavaScript, React, Node.js, MySQL e NoSQL, falta apenas 1 ano para me formar na faculdade e também concluí cursos de desenvolvedor fullstacks de software.</p>
 
-<div align="center">
-  <a href="https://github.com/Artmoraes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Artmoraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artmoraes&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

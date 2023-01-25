@@ -1,4 +1,4 @@
-### Olá, sou Arthur Barros, desenvolvedor web front-end 👋
+### Olá, sou Arthur Barros, desenvolvedor web fullstack 👋
 
 <h2>Possuo um background na área de programação há mais de 2 anos, atualmente estou em busca de uma nova oportunidade na área!</h2>
 <h3>Sinta-se bem com meu espaço de desenvolvimento, aqui você verá um pouco mais sobre as stacks que conheço, meus repositórios de projetos e commits.</h3>

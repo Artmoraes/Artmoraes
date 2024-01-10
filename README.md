@@ -1,6 +1,6 @@
 ### Olá, sou Arthur Barros, Desenvolvedor de Software Fullstacks 👋
 
-<h2>Possuo um background na área de programação há mais de 2 anos!</h2>
+<h2>Possuo um background na área de programação há mais de 3 anos!</h2>
 
 <h3>Sinta-se bem com meu espaço, aqui você verá um pouco mais sobre as stacks que conheço, meus repositórios de projetos e commits.</h3>
 </br>
